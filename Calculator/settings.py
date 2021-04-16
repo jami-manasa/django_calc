@@ -25,7 +25,7 @@ SECRET_KEY = 'a12@g-=^0u8u7m_$hqifsezf$rpoevz7mnb3tcc*nr3iu^c6g-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["calcdjango.herokuapp.com"]
 
 
 # Application definition
